@@ -1,5 +1,4 @@
 # Scific_calci
-Scientific calculator
 import math
 
 
